@@ -1,0 +1,1509 @@
+->LOG IN AS:
+1. ADMIN
+2. USER
+OR
+3. EXIT
+1
+ENTER PASSWORD
+1234
+                             *TODAYS DATA*
+--------------------------------------------------------------------------------
+   ID                            HOSPITAL         NUMBER OF VACCINES
+--------------------------------------------------------------------------------
+    1               BHIMASHANKAR HOSPITAL                          2
+--------------------------------------------------------------------------------
+    2                   SDH HOSPITAL PUNE                         40
+--------------------------------------------------------------------------------
+    3         PRIMARY HEALTH CENTER ADALE                         25
+--------------------------------------------------------------------------------
+    4          KANHE PHATA RURAL HOSPITAL                         15
+--------------------------------------------------------------------------------
+    5                        TALEGHAR SDK                         30
+--------------------------------------------------------------------------------
+-------------------------------OPERATIONS--------------------------------------
+1.COUNT NUMBER OF PATIENTS IN A HOSPITTAL
+2.UDATE TOTAL VACCINE COUNT OF A HOSPITAL
+3.TODAY'S PATIENT DETAILS
+4.EXIT
+--------------------------------------------------------------------------------
+WHICH OPERATION YOU WISH TO PERFORM?
+3
+-------------------------------------------------------------------------------------
+SR.NO                 HOSPITAL NAME                  PATIENT NAME      PATTIENT AGE
+-------------------------------------------------------------------------------------
+    1         BHIMASHANKAR HOSPITAL                  NO PATIENTS
+-------------------------------------------------------------------------------------
+    2             SDH HOSPITAL PUNE                  NO PATIENTS
+-------------------------------------------------------------------------------------
+    3   PRIMARY HEALTH CENTER ADALE                  NO PATIENTS
+-------------------------------------------------------------------------------------
+    4    KANHE PHATA RURAL HOSPITAL                  NO PATIENTS
+-------------------------------------------------------------------------------------
+    5                  TALEGHAR SDK                  NO PATIENTS
+--------------------------------------------------------------------------------
+                             *TODAYS DATA*
+--------------------------------------------------------------------------------
+   ID                            HOSPITAL         NUMBER OF VACCINES
+--------------------------------------------------------------------------------
+    1               BHIMASHANKAR HOSPITAL                          2
+--------------------------------------------------------------------------------
+    2                   SDH HOSPITAL PUNE                         40
+--------------------------------------------------------------------------------
+    3         PRIMARY HEALTH CENTER ADALE                         25
+--------------------------------------------------------------------------------
+    4          KANHE PHATA RURAL HOSPITAL                         15
+--------------------------------------------------------------------------------
+    5                        TALEGHAR SDK                         30
+--------------------------------------------------------------------------------
+-------------------------------OPERATIONS--------------------------------------
+1.COUNT NUMBER OF PATIENTS IN A HOSPITTAL
+2.UDATE TOTAL VACCINE COUNT OF A HOSPITAL
+3.TODAY'S PATIENT DETAILS
+4.EXIT
+--------------------------------------------------------------------------------
+WHICH OPERATION YOU WISH TO PERFORM?
+4
+ADMIN EXIT COMPLETED!!
+--------------------------------------------------------------------------------
+->LOG IN AS:
+1. ADMIN
+2. USER
+OR
+3. EXIT
+2
+                          ***HOSPITAL AVAILABILTY***
+--------------------------------------------------------------------------------
+   ID                            HOSPITAL      AVAILABILITY             DURATION
+--------------------------------------------------------------------------------
+    1               BHIMASHANKAR HOSPITAL         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    2                   SDH HOSPITAL PUNE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    3         PRIMARY HEALTH CENTER ADALE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    4          KANHE PHATA RURAL HOSPITAL         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    5                        TALEGHAR SDK         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+1.REGISTERATION FOR VACCINATION
+2.VIEW SLOT DETAILS
+3.CANCEL REGISTRATION
+4.EXIT
+WHICH OPERATION YOU WISH TO PERFORM?
+1
+ENTER ID OF HOSPITAL
+1
+->ENTER YOUR DETAILS :
+NAME :
+Vijay Desai
+AGE :
+21
+ADHAAR NUMBER : 223456691011
+REGISTRATION SUCCESSFULL!!
+--------------------------------------------------------------------------------
+                          ***HOSPITAL AVAILABILTY***
+--------------------------------------------------------------------------------
+   ID                            HOSPITAL      AVAILABILITY             DURATION
+--------------------------------------------------------------------------------
+    1               BHIMASHANKAR HOSPITAL         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    2                   SDH HOSPITAL PUNE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    3         PRIMARY HEALTH CENTER ADALE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    4          KANHE PHATA RURAL HOSPITAL         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    5                        TALEGHAR SDK         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+1.REGISTERATION FOR VACCINATION
+2.VIEW SLOT DETAILS
+3.CANCEL REGISTRATION
+4.EXIT
+WHICH OPERATION YOU WISH TO PERFORM?
+2
+ENTER ID OF HOSPITAL
+1
+ENTER AADHAAR NUMBER : 223456691011
+--------------------------------------------------------------------------------
+NAME :Vijay Desai                                      PATTIENT AGE : 21
+--------------------------------------------------------------------------------
+ALLOTED HOSPITAL : BHIMASHANKAR HOSPITAL               ALLOTED SLOT : 8.0AM
+--------------------------------------------------------------------------------
+                          ***HOSPITAL AVAILABILTY***
+--------------------------------------------------------------------------------
+   ID                            HOSPITAL      AVAILABILITY             DURATION
+--------------------------------------------------------------------------------
+    1               BHIMASHANKAR HOSPITAL         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    2                   SDH HOSPITAL PUNE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    3         PRIMARY HEALTH CENTER ADALE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    4          KANHE PHATA RURAL HOSPITAL         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    5                        TALEGHAR SDK         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+1.REGISTERATION FOR VACCINATION
+2.VIEW SLOT DETAILS
+3.CANCEL REGISTRATION
+4.EXIT
+WHICH OPERATION YOU WISH TO PERFORM?
+1
+ENTER ID OF HOSPITAL
+1
+->ENTER YOUR DETAILS :
+NAME :
+Sara Rana
+AGE :
+74
+ADHAAR NUMBER : 334567899999
+REGISTRATION SUCCESSFULL!!
+--------------------------------------------------------------------------------
+                          ***HOSPITAL AVAILABILTY***
+--------------------------------------------------------------------------------
+   ID                            HOSPITAL      AVAILABILITY             DURATION
+--------------------------------------------------------------------------------
+    1               BHIMASHANKAR HOSPITAL       Unavailable       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    2                   SDH HOSPITAL PUNE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    3         PRIMARY HEALTH CENTER ADALE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    4          KANHE PHATA RURAL HOSPITAL         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    5                        TALEGHAR SDK         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+1.REGISTERATION FOR VACCINATION
+2.VIEW SLOT DETAILS
+3.CANCEL REGISTRATION
+4.EXIT
+WHICH OPERATION YOU WISH TO PERFORM?
+1
+ENTER ID OF HOSPITAL
+2
+->ENTER YOUR DETAILS :
+NAME :
+Jeeya Rathi
+AGE :
+34
+ADHAAR NUMBER : 113400732491
+REGISTRATION SUCCESSFULL!!
+--------------------------------------------------------------------------------
+                          ***HOSPITAL AVAILABILTY***
+--------------------------------------------------------------------------------
+   ID                            HOSPITAL      AVAILABILITY             DURATION
+--------------------------------------------------------------------------------
+    1               BHIMASHANKAR HOSPITAL       Unavailable       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    2                   SDH HOSPITAL PUNE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    3         PRIMARY HEALTH CENTER ADALE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    4          KANHE PHATA RURAL HOSPITAL         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    5                        TALEGHAR SDK         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+1.REGISTERATION FOR VACCINATION
+2.VIEW SLOT DETAILS
+3.CANCEL REGISTRATION
+4.EXIT
+WHICH OPERATION YOU WISH TO PERFORM?
+1
+ENTER ID OF HOSPITAL
+2
+->ENTER YOUR DETAILS :
+NAME :
+Saniya Mehta
+AGE :
+59
+ADHAAR NUMBER : 534666707109
+REGISTRATION SUCCESSFULL!!
+--------------------------------------------------------------------------------
+                          ***HOSPITAL AVAILABILTY***
+--------------------------------------------------------------------------------
+   ID                            HOSPITAL      AVAILABILITY             DURATION
+--------------------------------------------------------------------------------
+    1               BHIMASHANKAR HOSPITAL       Unavailable       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    2                   SDH HOSPITAL PUNE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    3         PRIMARY HEALTH CENTER ADALE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    4          KANHE PHATA RURAL HOSPITAL         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    5                        TALEGHAR SDK         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+1.REGISTERATION FOR VACCINATION
+2.VIEW SLOT DETAILS
+3.CANCEL REGISTRATION
+4.EXIT
+WHICH OPERATION YOU WISH TO PERFORM?
+1
+ENTER ID OF HOSPITAL
+2
+->ENTER YOUR DETAILS :
+NAME :
+Amit Shah
+AGE :
+68
+ADHAAR NUMBER : 113499201101
+REGISTRATION SUCCESSFULL!!
+--------------------------------------------------------------------------------
+                          ***HOSPITAL AVAILABILTY***
+--------------------------------------------------------------------------------
+   ID                            HOSPITAL      AVAILABILITY             DURATION
+--------------------------------------------------------------------------------
+    1               BHIMASHANKAR HOSPITAL       Unavailable       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    2                   SDH HOSPITAL PUNE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    3         PRIMARY HEALTH CENTER ADALE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    4          KANHE PHATA RURAL HOSPITAL         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    5                        TALEGHAR SDK         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+1.REGISTERATION FOR VACCINATION
+2.VIEW SLOT DETAILS
+3.CANCEL REGISTRATION
+4.EXIT
+WHICH OPERATION YOU WISH TO PERFORM?
+2
+ENTER ID OF HOSPITAL
+2
+ENTER AADHAAR NUMBER : 113499201101
+--------------------------------------------------------------------------------
+NAME :Amit Shah                                      PATTIENT AGE : 68
+--------------------------------------------------------------------------------
+ALLOTED HOSPITAL : SDH HOSPITAL PUNE               ALLOTED SLOT : 9.0AM
+--------------------------------------------------------------------------------
+                          ***HOSPITAL AVAILABILTY***
+--------------------------------------------------------------------------------
+   ID                            HOSPITAL      AVAILABILITY             DURATION
+--------------------------------------------------------------------------------
+    1               BHIMASHANKAR HOSPITAL       Unavailable       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    2                   SDH HOSPITAL PUNE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    3         PRIMARY HEALTH CENTER ADALE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    4          KANHE PHATA RURAL HOSPITAL         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    5                        TALEGHAR SDK         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+1.REGISTERATION FOR VACCINATION
+2.VIEW SLOT DETAILS
+3.CANCEL REGISTRATION
+4.EXIT
+WHICH OPERATION YOU WISH TO PERFORM?
+3
+ENTER ID OF HOSPITAL
+2
+ENTER AADHAAR NUMBER : 113499201101
+SLOT HAS BEEN CANCELLED SUCCESSFULLY!
+--------------------------------------------------------------------------------
+                          ***HOSPITAL AVAILABILTY***
+--------------------------------------------------------------------------------
+   ID                            HOSPITAL      AVAILABILITY             DURATION
+--------------------------------------------------------------------------------
+    1               BHIMASHANKAR HOSPITAL       Unavailable       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    2                   SDH HOSPITAL PUNE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    3         PRIMARY HEALTH CENTER ADALE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    4          KANHE PHATA RURAL HOSPITAL         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    5                        TALEGHAR SDK         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+1.REGISTERATION FOR VACCINATION
+2.VIEW SLOT DETAILS
+3.CANCEL REGISTRATION
+4.EXIT
+WHICH OPERATION YOU WISH TO PERFORM?
+2
+ENTER ID OF HOSPITAL
+2
+ENTER AADHAAR NUMBER : 113499201101
+--------------------------------------------------------------------------------
+YOU HAVE NOT REGISTERED FOR VACCINATION YET!
+--------------------------------------------------------------------------------
+                          ***HOSPITAL AVAILABILTY***
+--------------------------------------------------------------------------------
+   ID                            HOSPITAL      AVAILABILITY             DURATION
+--------------------------------------------------------------------------------
+    1               BHIMASHANKAR HOSPITAL       Unavailable       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    2                   SDH HOSPITAL PUNE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    3         PRIMARY HEALTH CENTER ADALE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    4          KANHE PHATA RURAL HOSPITAL         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    5                        TALEGHAR SDK         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+1.REGISTERATION FOR VACCINATION
+2.VIEW SLOT DETAILS
+3.CANCEL REGISTRATION
+4.EXIT
+WHICH OPERATION YOU WISH TO PERFORM?
+2 1
+ENTER ID OF HOSPITAL
+1 2
+->ENTER YOUR DETAILS :
+NAME :
+Diya Lalwani
+AGE :
+47
+ADHAAR NUMBER : 998122777 8717
+REGISTRATION SUCCESSFULL!!
+--------------------------------------------------------------------------------
+                          ***HOSPITAL AVAILABILTY***
+--------------------------------------------------------------------------------
+   ID                            HOSPITAL      AVAILABILITY             DURATION
+--------------------------------------------------------------------------------
+    1               BHIMASHANKAR HOSPITAL       Unavailable       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    2                   SDH HOSPITAL PUNE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    3         PRIMARY HEALTH CENTER ADALE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    4          KANHE PHATA RURAL HOSPITAL         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    5                        TALEGHAR SDK         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+1.REGISTERATION FOR VACCINATION
+2.VIEW SLOT DETAILS
+3.CANCEL REGISTRATION
+4.EXIT
+WHICH OPERATION YOU WISH TO PERFORM?
+1 2
+ENTER ID OF HOSPITAL
+2
+ENTER AADHAAR NUMBER : 998122778717
+--------------------------------------------------------------------------------
+NAME :Diya Lalwani                                      PATTIENT AGE : 47
+--------------------------------------------------------------------------------
+ALLOTED HOSPITAL : SDH HOSPITAL PUNE               ALLOTED SLOT : 9.30AM
+--------------------------------------------------------------------------------
+                          ***HOSPITAL AVAILABILTY***
+--------------------------------------------------------------------------------
+   ID                            HOSPITAL      AVAILABILITY             DURATION
+--------------------------------------------------------------------------------
+    1               BHIMASHANKAR HOSPITAL       Unavailable       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    2                   SDH HOSPITAL PUNE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    3         PRIMARY HEALTH CENTER ADALE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    4          KANHE PHATA RURAL HOSPITAL         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    5                        TALEGHAR SDK         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+1.REGISTERATION FOR VACCINATION
+2.VIEW SLOT DETAILS
+3.CANCEL REGISTRATION
+4.EXIT
+WHICH OPERATION YOU WISH TO PERFORM?
+1
+ENTER ID OF HOSPITAL
+3
+->ENTER YOUR DETAILS :
+NAME :
+Jay Joshi
+AGE :
+50
+ADHAAR NUMBER : 339101289011
+REGISTRATION SUCCESSFULL!!
+--------------------------------------------------------------------------------
+                          ***HOSPITAL AVAILABILTY***
+--------------------------------------------------------------------------------
+   ID                            HOSPITAL      AVAILABILITY             DURATION
+--------------------------------------------------------------------------------
+    1               BHIMASHANKAR HOSPITAL       Unavailable       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    2                   SDH HOSPITAL PUNE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    3         PRIMARY HEALTH CENTER ADALE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    4          KANHE PHATA RURAL HOSPITAL         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    5                        TALEGHAR SDK         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+1.REGISTERATION FOR VACCINATION
+2.VIEW SLOT DETAILS
+3.CANCEL REGISTRATION
+4.EXIT
+WHICH OPERATION YOU WISH TO PERFORM?
+1
+ENTER ID OF HOSPITAL
+3
+->ENTER YOUR DETAILS :
+NAME :
+Ameya Deshmukj h
+AGE :
+98
+ADHAAR NUMBER : 212249789906
+REGISTRATION SUCCESSFULL!!
+--------------------------------------------------------------------------------
+                          ***HOSPITAL AVAILABILTY***
+--------------------------------------------------------------------------------
+   ID                            HOSPITAL      AVAILABILITY             DURATION
+--------------------------------------------------------------------------------
+    1               BHIMASHANKAR HOSPITAL       Unavailable       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    2                   SDH HOSPITAL PUNE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    3         PRIMARY HEALTH CENTER ADALE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    4          KANHE PHATA RURAL HOSPITAL         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    5                        TALEGHAR SDK         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+1.REGISTERATION FOR VACCINATION
+2.VIEW SLOT DETAILS
+3.CANCEL REGISTRATION
+4.EXIT
+WHICH OPERATION YOU WISH TO PERFORM?
+1
+ENTER ID OF HOSPITAL
+4
+->ENTER YOUR DETAILS :
+NAME :
+Bindu Valmiki
+AGE :
+18
+ADHAAR NUMBER : 221922132202
+REGISTRATION SUCCESSFULL!!
+--------------------------------------------------------------------------------
+                          ***HOSPITAL AVAILABILTY***
+--------------------------------------------------------------------------------
+   ID                            HOSPITAL      AVAILABILITY             DURATION
+--------------------------------------------------------------------------------
+    1               BHIMASHANKAR HOSPITAL       Unavailable       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    2                   SDH HOSPITAL PUNE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    3         PRIMARY HEALTH CENTER ADALE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    4          KANHE PHATA RURAL HOSPITAL         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    5                        TALEGHAR SDK         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+1.REGISTERATION FOR VACCINATION
+2.VIEW SLOT DETAILS
+3.CANCEL REGISTRATION
+4.EXIT
+WHICH OPERATION YOU WISH TO PERFORM?
+1
+ENTER ID OF HOSPITAL
+4
+->ENTER YOUR DETAILS :
+NAME :
+Rahul Jangid
+AGE :
+80
+ADHAAR NUMBER : 991205667811
+REGISTRATION SUCCESSFULL!!
+--------------------------------------------------------------------------------
+                          ***HOSPITAL AVAILABILTY***
+--------------------------------------------------------------------------------
+   ID                            HOSPITAL      AVAILABILITY             DURATION
+--------------------------------------------------------------------------------
+    1               BHIMASHANKAR HOSPITAL       Unavailable       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    2                   SDH HOSPITAL PUNE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    3         PRIMARY HEALTH CENTER ADALE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    4          KANHE PHATA RURAL HOSPITAL         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    5                        TALEGHAR SDK         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+1.REGISTERATION FOR VACCINATION
+2.VIEW SLOT DETAILS
+3.CANCEL REGISTRATION
+4.EXIT
+WHICH OPERATION YOU WISH TO PERFORM?
+1
+ENTER ID OF HOSPITAL
+5
+->ENTER YOUR DETAILS :
+NAME :
+Azim Sayed
+AGE :
+60
+ADHAAR NUMBER : 231011918177
+REGISTRATION SUCCESSFULL!!
+--------------------------------------------------------------------------------
+                          ***HOSPITAL AVAILABILTY***
+--------------------------------------------------------------------------------
+   ID                            HOSPITAL      AVAILABILITY             DURATION
+--------------------------------------------------------------------------------
+    1               BHIMASHANKAR HOSPITAL       Unavailable       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    2                   SDH HOSPITAL PUNE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    3         PRIMARY HEALTH CENTER ADALE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    4          KANHE PHATA RURAL HOSPITAL         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    5                        TALEGHAR SDK         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+1.REGISTERATION FOR VACCINATION
+2.VIEW SLOT DETAILS
+3.CANCEL REGISTRATION
+4.EXIT
+WHICH OPERATION YOU WISH TO PERFORM?
+1
+ENTER ID OF HOSPITAL
+5
+->ENTER YOUR DETAILS :
+NAME :
+Ayan Sheikh
+AGE :
+39
+ADHAAR NUMBER : 553140559781
+REGISTRATION SUCCESSFULL!!
+--------------------------------------------------------------------------------
+                          ***HOSPITAL AVAILABILTY***
+--------------------------------------------------------------------------------
+   ID                            HOSPITAL      AVAILABILITY             DURATION
+--------------------------------------------------------------------------------
+    1               BHIMASHANKAR HOSPITAL       Unavailable       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    2                   SDH HOSPITAL PUNE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    3         PRIMARY HEALTH CENTER ADALE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    4          KANHE PHATA RURAL HOSPITAL         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    5                        TALEGHAR SDK         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+1.REGISTERATION FOR VACCINATION
+2.VIEW SLOT DETAILS
+3.CANCEL REGISTRATION
+4.EXIT
+WHICH OPERATION YOU WISH TO PERFORM?
+4
+USER EXIT COMPLETED!!
+--------------------------------------------------------------------------------
+->LOG IN AS:
+1. ADMIN
+2. USER
+OR
+3. EXIT
+1
+ENTER PASSWORD
+1234
+                             *TODAYS DATA*
+--------------------------------------------------------------------------------
+   ID                            HOSPITAL         NUMBER OF VACCINES
+--------------------------------------------------------------------------------
+    1               BHIMASHANKAR HOSPITAL                          0
+--------------------------------------------------------------------------------
+    2                   SDH HOSPITAL PUNE                         36
+--------------------------------------------------------------------------------
+    3         PRIMARY HEALTH CENTER ADALE                         23
+--------------------------------------------------------------------------------
+    4          KANHE PHATA RURAL HOSPITAL                         13
+--------------------------------------------------------------------------------
+    5                        TALEGHAR SDK                         28
+--------------------------------------------------------------------------------
+-------------------------------OPERATIONS--------------------------------------
+1.COUNT NUMBER OF PATIENTS IN A HOSPITTAL
+2.UDATE TOTAL VACCINE COUNT OF A HOSPITAL
+3.TODAY'S PATIENT DETAILS
+4.EXIT
+--------------------------------------------------------------------------------
+WHICH OPERATION YOU WISH TO PERFORM?
+3
+-------------------------------------------------------------------------------------
+SR.NO                 HOSPITAL NAME                  PATIENT NAME      PATTIENT AGE
+-------------------------------------------------------------------------------------
+    1         BHIMASHANKAR HOSPITAL                   Vijay Desai        21
+-------------------------------------------------------------------------------------
+                                                        Sara Rana        74
+-------------------------------------------------------------------------------------
+    2             SDH HOSPITAL PUNE                   Jeeya Rathi        34
+-------------------------------------------------------------------------------------
+                                                     Saniya Mehta        59
+-------------------------------------------------------------------------------------
+                                                                          0
+-------------------------------------------------------------------------------------
+                                                     Diya Lalwani        47
+-------------------------------------------------------------------------------------
+    3   PRIMARY HEALTH CENTER ADALE                     Jay Joshi        50
+-------------------------------------------------------------------------------------
+                                                   Ameya Deshmukh        98
+-------------------------------------------------------------------------------------
+    4    KANHE PHATA RURAL HOSPITAL                 Bindu Valmiki        18
+-------------------------------------------------------------------------------------
+                                                     Rahul Jangid        80
+-------------------------------------------------------------------------------------
+    5                  TALEGHAR SDK                    Azim Sayed        60
+-------------------------------------------------------------------------------------
+                                                      Ayan Sheikh        39
+--------------------------------------------------------------------------------
+                             *TODAYS DATA*
+--------------------------------------------------------------------------------
+   ID                            HOSPITAL         NUMBER OF VACCINES
+--------------------------------------------------------------------------------
+    1               BHIMASHANKAR HOSPITAL                          0
+--------------------------------------------------------------------------------
+    2                   SDH HOSPITAL PUNE                         36
+--------------------------------------------------------------------------------
+    3         PRIMARY HEALTH CENTER ADALE                         23
+--------------------------------------------------------------------------------
+    4          KANHE PHATA RURAL HOSPITAL                         13
+--------------------------------------------------------------------------------
+    5                        TALEGHAR SDK                         28
+--------------------------------------------------------------------------------
+-------------------------------OPERATIONS--------------------------------------
+1.COUNT NUMBER OF PATIENTS IN A HOSPITTAL
+2.UDATE TOTAL VACCINE COUNT OF A HOSPITAL
+3.TODAY'S PATIENT DETAILS
+4.EXIT
+--------------------------------------------------------------------------------
+WHICH OPERATION YOU WISH TO PERFORM?
+->LOG IN AS:
+1. ADMIN
+2. USER
+OR
+3. EXIT
+1
+ENTER PASSWORD
+1234
+                             *TODAYS DATA*
+--------------------------------------------------------------------------------
+   ID                            HOSPITAL         NUMBER OF VACCINES
+--------------------------------------------------------------------------------
+    1               BHIMASHANKAR HOSPITAL                          2
+--------------------------------------------------------------------------------
+    2                   SDH HOSPITAL PUNE                         40
+--------------------------------------------------------------------------------
+    3         PRIMARY HEALTH CENTER ADALE                         25
+--------------------------------------------------------------------------------
+    4          KANHE PHATA RURAL HOSPITAL                         15
+--------------------------------------------------------------------------------
+    5                        TALEGHAR SDK                         30
+--------------------------------------------------------------------------------
+-------------------------------OPERATIONS--------------------------------------
+1.COUNT NUMBER OF PATIENTS IN A HOSPITTAL
+2.UDATE TOTAL VACCINE COUNT OF A HOSPITAL
+3.TODAY'S PATIENT DETAILS
+4.EXIT
+--------------------------------------------------------------------------------
+WHICH OPERATION YOU WISH TO PERFORM?
+3
+-------------------------------------------------------------------------------------
+SR.NO                 HOSPITAL NAME                  PATIENT NAME      PATTIENT AGE
+-------------------------------------------------------------------------------------
+    1         BHIMASHANKAR HOSPITAL                  NO PATIENTS
+-------------------------------------------------------------------------------------
+    2             SDH HOSPITAL PUNE                  NO PATIENTS
+-------------------------------------------------------------------------------------
+    3   PRIMARY HEALTH CENTER ADALE                  NO PATIENTS
+-------------------------------------------------------------------------------------
+    4    KANHE PHATA RURAL HOSPITAL                  NO PATIENTS
+-------------------------------------------------------------------------------------
+    5                  TALEGHAR SDK                  NO PATIENTS
+--------------------------------------------------------------------------------
+                             *TODAYS DATA*
+--------------------------------------------------------------------------------
+   ID                            HOSPITAL         NUMBER OF VACCINES
+--------------------------------------------------------------------------------
+    1               BHIMASHANKAR HOSPITAL                          2
+--------------------------------------------------------------------------------
+    2                   SDH HOSPITAL PUNE                         40
+--------------------------------------------------------------------------------
+    3         PRIMARY HEALTH CENTER ADALE                         25
+--------------------------------------------------------------------------------
+    4          KANHE PHATA RURAL HOSPITAL                         15
+--------------------------------------------------------------------------------
+    5                        TALEGHAR SDK                         30
+--------------------------------------------------------------------------------
+-------------------------------OPERATIONS--------------------------------------
+1.COUNT NUMBER OF PATIENTS IN A HOSPITTAL
+2.UDATE TOTAL VACCINE COUNT OF A HOSPITAL
+3.TODAY'S PATIENT DETAILS
+4.EXIT
+--------------------------------------------------------------------------------
+WHICH OPERATION YOU WISH TO PERFORM?
+4
+ADMIN EXIT COMPLETED!!
+--------------------------------------------------------------------------------
+->LOG IN AS:
+1. ADMIN
+2. USER
+OR
+3. EXIT
+2
+                          ***HOSPITAL AVAILABILTY***
+--------------------------------------------------------------------------------
+   ID                            HOSPITAL      AVAILABILITY             DURATION
+--------------------------------------------------------------------------------
+    1               BHIMASHANKAR HOSPITAL         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    2                   SDH HOSPITAL PUNE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    3         PRIMARY HEALTH CENTER ADALE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    4          KANHE PHATA RURAL HOSPITAL         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    5                        TALEGHAR SDK         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+1.REGISTERATION FOR VACCINATION
+2.VIEW SLOT DETAILS
+3.CANCEL REGISTRATION
+4.EXIT
+WHICH OPERATION YOU WISH TO PERFORM?
+1
+ENTER ID OF HOSPITAL
+1
+->ENTER YOUR DETAILS :
+NAME :
+Vijay Desai
+AGE :
+21
+ADHAAR NUMBER : 223456691011
+REGISTRATION SUCCESSFULL!!
+--------------------------------------------------------------------------------
+                          ***HOSPITAL AVAILABILTY***
+--------------------------------------------------------------------------------
+   ID                            HOSPITAL      AVAILABILITY             DURATION
+--------------------------------------------------------------------------------
+    1               BHIMASHANKAR HOSPITAL         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    2                   SDH HOSPITAL PUNE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    3         PRIMARY HEALTH CENTER ADALE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    4          KANHE PHATA RURAL HOSPITAL         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    5                        TALEGHAR SDK         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+1.REGISTERATION FOR VACCINATION
+2.VIEW SLOT DETAILS
+3.CANCEL REGISTRATION
+4.EXIT
+WHICH OPERATION YOU WISH TO PERFORM?
+2
+ENTER ID OF HOSPITAL
+1
+ENTER AADHAAR NUMBER : 223456691011
+--------------------------------------------------------------------------------
+NAME :Vijay Desai                                      PATTIENT AGE : 21
+--------------------------------------------------------------------------------
+ALLOTED HOSPITAL : BHIMASHANKAR HOSPITAL               ALLOTED SLOT : 8.0AM
+--------------------------------------------------------------------------------
+                          ***HOSPITAL AVAILABILTY***
+--------------------------------------------------------------------------------
+   ID                            HOSPITAL      AVAILABILITY             DURATION
+--------------------------------------------------------------------------------
+    1               BHIMASHANKAR HOSPITAL         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    2                   SDH HOSPITAL PUNE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    3         PRIMARY HEALTH CENTER ADALE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    4          KANHE PHATA RURAL HOSPITAL         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    5                        TALEGHAR SDK         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+1.REGISTERATION FOR VACCINATION
+2.VIEW SLOT DETAILS
+3.CANCEL REGISTRATION
+4.EXIT
+WHICH OPERATION YOU WISH TO PERFORM?
+1
+ENTER ID OF HOSPITAL
+1
+->ENTER YOUR DETAILS :
+NAME :
+Sara Rana
+AGE :
+74
+ADHAAR NUMBER : 334567899999
+REGISTRATION SUCCESSFULL!!
+--------------------------------------------------------------------------------
+                          ***HOSPITAL AVAILABILTY***
+--------------------------------------------------------------------------------
+   ID                            HOSPITAL      AVAILABILITY             DURATION
+--------------------------------------------------------------------------------
+    1               BHIMASHANKAR HOSPITAL       Unavailable       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    2                   SDH HOSPITAL PUNE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    3         PRIMARY HEALTH CENTER ADALE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    4          KANHE PHATA RURAL HOSPITAL         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    5                        TALEGHAR SDK         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+1.REGISTERATION FOR VACCINATION
+2.VIEW SLOT DETAILS
+3.CANCEL REGISTRATION
+4.EXIT
+WHICH OPERATION YOU WISH TO PERFORM?
+1
+ENTER ID OF HOSPITAL
+2
+->ENTER YOUR DETAILS :
+NAME :
+Jeeya Rathi
+AGE :
+34
+ADHAAR NUMBER : 113400732491
+REGISTRATION SUCCESSFULL!!
+--------------------------------------------------------------------------------
+                          ***HOSPITAL AVAILABILTY***
+--------------------------------------------------------------------------------
+   ID                            HOSPITAL      AVAILABILITY             DURATION
+--------------------------------------------------------------------------------
+    1               BHIMASHANKAR HOSPITAL       Unavailable       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    2                   SDH HOSPITAL PUNE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    3         PRIMARY HEALTH CENTER ADALE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    4          KANHE PHATA RURAL HOSPITAL         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    5                        TALEGHAR SDK         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+1.REGISTERATION FOR VACCINATION
+2.VIEW SLOT DETAILS
+3.CANCEL REGISTRATION
+4.EXIT
+WHICH OPERATION YOU WISH TO PERFORM?
+1
+ENTER ID OF HOSPITAL
+2
+->ENTER YOUR DETAILS :
+NAME :
+Saniya Mehta
+AGE :
+59
+ADHAAR NUMBER : 534666707109
+REGISTRATION SUCCESSFULL!!
+--------------------------------------------------------------------------------
+                          ***HOSPITAL AVAILABILTY***
+--------------------------------------------------------------------------------
+   ID                            HOSPITAL      AVAILABILITY             DURATION
+--------------------------------------------------------------------------------
+    1               BHIMASHANKAR HOSPITAL       Unavailable       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    2                   SDH HOSPITAL PUNE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    3         PRIMARY HEALTH CENTER ADALE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    4          KANHE PHATA RURAL HOSPITAL         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    5                        TALEGHAR SDK         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+1.REGISTERATION FOR VACCINATION
+2.VIEW SLOT DETAILS
+3.CANCEL REGISTRATION
+4.EXIT
+WHICH OPERATION YOU WISH TO PERFORM?
+1
+ENTER ID OF HOSPITAL
+2
+->ENTER YOUR DETAILS :
+NAME :
+Amit Shah
+AGE :
+68
+ADHAAR NUMBER : 113499201101
+REGISTRATION SUCCESSFULL!!
+--------------------------------------------------------------------------------
+                          ***HOSPITAL AVAILABILTY***
+--------------------------------------------------------------------------------
+   ID                            HOSPITAL      AVAILABILITY             DURATION
+--------------------------------------------------------------------------------
+    1               BHIMASHANKAR HOSPITAL       Unavailable       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    2                   SDH HOSPITAL PUNE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    3         PRIMARY HEALTH CENTER ADALE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    4          KANHE PHATA RURAL HOSPITAL         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    5                        TALEGHAR SDK         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+1.REGISTERATION FOR VACCINATION
+2.VIEW SLOT DETAILS
+3.CANCEL REGISTRATION
+4.EXIT
+WHICH OPERATION YOU WISH TO PERFORM?
+2
+ENTER ID OF HOSPITAL
+2
+ENTER AADHAAR NUMBER : 113499201101
+--------------------------------------------------------------------------------
+NAME :Amit Shah                                      PATTIENT AGE : 68
+--------------------------------------------------------------------------------
+ALLOTED HOSPITAL : SDH HOSPITAL PUNE               ALLOTED SLOT : 9.0AM
+--------------------------------------------------------------------------------
+                          ***HOSPITAL AVAILABILTY***
+--------------------------------------------------------------------------------
+   ID                            HOSPITAL      AVAILABILITY             DURATION
+--------------------------------------------------------------------------------
+    1               BHIMASHANKAR HOSPITAL       Unavailable       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    2                   SDH HOSPITAL PUNE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    3         PRIMARY HEALTH CENTER ADALE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    4          KANHE PHATA RURAL HOSPITAL         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    5                        TALEGHAR SDK         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+1.REGISTERATION FOR VACCINATION
+2.VIEW SLOT DETAILS
+3.CANCEL REGISTRATION
+4.EXIT
+WHICH OPERATION YOU WISH TO PERFORM?
+3
+ENTER ID OF HOSPITAL
+2
+ENTER AADHAAR NUMBER : 113499201101
+SLOT HAS BEEN CANCELLED SUCCESSFULLY!
+--------------------------------------------------------------------------------
+                          ***HOSPITAL AVAILABILTY***
+--------------------------------------------------------------------------------
+   ID                            HOSPITAL      AVAILABILITY             DURATION
+--------------------------------------------------------------------------------
+    1               BHIMASHANKAR HOSPITAL       Unavailable       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    2                   SDH HOSPITAL PUNE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    3         PRIMARY HEALTH CENTER ADALE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    4          KANHE PHATA RURAL HOSPITAL         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    5                        TALEGHAR SDK         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+1.REGISTERATION FOR VACCINATION
+2.VIEW SLOT DETAILS
+3.CANCEL REGISTRATION
+4.EXIT
+WHICH OPERATION YOU WISH TO PERFORM?
+2
+ENTER ID OF HOSPITAL
+2
+ENTER AADHAAR NUMBER : 113499201101
+--------------------------------------------------------------------------------
+YOU HAVE NOT REGISTERED FOR VACCINATION YET!
+--------------------------------------------------------------------------------
+                          ***HOSPITAL AVAILABILTY***
+--------------------------------------------------------------------------------
+   ID                            HOSPITAL      AVAILABILITY             DURATION
+--------------------------------------------------------------------------------
+    1               BHIMASHANKAR HOSPITAL       Unavailable       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    2                   SDH HOSPITAL PUNE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    3         PRIMARY HEALTH CENTER ADALE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    4          KANHE PHATA RURAL HOSPITAL         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    5                        TALEGHAR SDK         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+1.REGISTERATION FOR VACCINATION
+2.VIEW SLOT DETAILS
+3.CANCEL REGISTRATION
+4.EXIT
+WHICH OPERATION YOU WISH TO PERFORM?
+2 1
+ENTER ID OF HOSPITAL
+1 2
+->ENTER YOUR DETAILS :
+NAME :
+Diya Lalwani
+AGE :
+47
+ADHAAR NUMBER : 998122777 8717
+REGISTRATION SUCCESSFULL!!
+--------------------------------------------------------------------------------
+                          ***HOSPITAL AVAILABILTY***
+--------------------------------------------------------------------------------
+   ID                            HOSPITAL      AVAILABILITY             DURATION
+--------------------------------------------------------------------------------
+    1               BHIMASHANKAR HOSPITAL       Unavailable       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    2                   SDH HOSPITAL PUNE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    3         PRIMARY HEALTH CENTER ADALE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    4          KANHE PHATA RURAL HOSPITAL         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    5                        TALEGHAR SDK         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+1.REGISTERATION FOR VACCINATION
+2.VIEW SLOT DETAILS
+3.CANCEL REGISTRATION
+4.EXIT
+WHICH OPERATION YOU WISH TO PERFORM?
+1 2
+ENTER ID OF HOSPITAL
+2
+ENTER AADHAAR NUMBER : 998122778717
+--------------------------------------------------------------------------------
+NAME :Diya Lalwani                                      PATTIENT AGE : 47
+--------------------------------------------------------------------------------
+ALLOTED HOSPITAL : SDH HOSPITAL PUNE               ALLOTED SLOT : 9.30AM
+--------------------------------------------------------------------------------
+                          ***HOSPITAL AVAILABILTY***
+--------------------------------------------------------------------------------
+   ID                            HOSPITAL      AVAILABILITY             DURATION
+--------------------------------------------------------------------------------
+    1               BHIMASHANKAR HOSPITAL       Unavailable       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    2                   SDH HOSPITAL PUNE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    3         PRIMARY HEALTH CENTER ADALE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    4          KANHE PHATA RURAL HOSPITAL         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    5                        TALEGHAR SDK         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+1.REGISTERATION FOR VACCINATION
+2.VIEW SLOT DETAILS
+3.CANCEL REGISTRATION
+4.EXIT
+WHICH OPERATION YOU WISH TO PERFORM?
+1
+ENTER ID OF HOSPITAL
+3
+->ENTER YOUR DETAILS :
+NAME :
+Jay Joshi
+AGE :
+50
+ADHAAR NUMBER : 339101289011
+REGISTRATION SUCCESSFULL!!
+--------------------------------------------------------------------------------
+                          ***HOSPITAL AVAILABILTY***
+--------------------------------------------------------------------------------
+   ID                            HOSPITAL      AVAILABILITY             DURATION
+--------------------------------------------------------------------------------
+    1               BHIMASHANKAR HOSPITAL       Unavailable       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    2                   SDH HOSPITAL PUNE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    3         PRIMARY HEALTH CENTER ADALE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    4          KANHE PHATA RURAL HOSPITAL         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    5                        TALEGHAR SDK         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+1.REGISTERATION FOR VACCINATION
+2.VIEW SLOT DETAILS
+3.CANCEL REGISTRATION
+4.EXIT
+WHICH OPERATION YOU WISH TO PERFORM?
+1
+ENTER ID OF HOSPITAL
+3
+->ENTER YOUR DETAILS :
+NAME :
+Ameya Deshmukj h
+AGE :
+98
+ADHAAR NUMBER : 212249789906
+REGISTRATION SUCCESSFULL!!
+--------------------------------------------------------------------------------
+                          ***HOSPITAL AVAILABILTY***
+--------------------------------------------------------------------------------
+   ID                            HOSPITAL      AVAILABILITY             DURATION
+--------------------------------------------------------------------------------
+    1               BHIMASHANKAR HOSPITAL       Unavailable       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    2                   SDH HOSPITAL PUNE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    3         PRIMARY HEALTH CENTER ADALE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    4          KANHE PHATA RURAL HOSPITAL         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    5                        TALEGHAR SDK         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+1.REGISTERATION FOR VACCINATION
+2.VIEW SLOT DETAILS
+3.CANCEL REGISTRATION
+4.EXIT
+WHICH OPERATION YOU WISH TO PERFORM?
+1
+ENTER ID OF HOSPITAL
+4
+->ENTER YOUR DETAILS :
+NAME :
+Bindu Valmiki
+AGE :
+18
+ADHAAR NUMBER : 221922132202
+REGISTRATION SUCCESSFULL!!
+--------------------------------------------------------------------------------
+                          ***HOSPITAL AVAILABILTY***
+--------------------------------------------------------------------------------
+   ID                            HOSPITAL      AVAILABILITY             DURATION
+--------------------------------------------------------------------------------
+    1               BHIMASHANKAR HOSPITAL       Unavailable       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    2                   SDH HOSPITAL PUNE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    3         PRIMARY HEALTH CENTER ADALE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    4          KANHE PHATA RURAL HOSPITAL         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    5                        TALEGHAR SDK         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+1.REGISTERATION FOR VACCINATION
+2.VIEW SLOT DETAILS
+3.CANCEL REGISTRATION
+4.EXIT
+WHICH OPERATION YOU WISH TO PERFORM?
+1
+ENTER ID OF HOSPITAL
+4
+->ENTER YOUR DETAILS :
+NAME :
+Rahul Jangid
+AGE :
+80
+ADHAAR NUMBER : 991205667811
+REGISTRATION SUCCESSFULL!!
+--------------------------------------------------------------------------------
+                          ***HOSPITAL AVAILABILTY***
+--------------------------------------------------------------------------------
+   ID                            HOSPITAL      AVAILABILITY             DURATION
+--------------------------------------------------------------------------------
+    1               BHIMASHANKAR HOSPITAL       Unavailable       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    2                   SDH HOSPITAL PUNE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    3         PRIMARY HEALTH CENTER ADALE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    4          KANHE PHATA RURAL HOSPITAL         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    5                        TALEGHAR SDK         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+1.REGISTERATION FOR VACCINATION
+2.VIEW SLOT DETAILS
+3.CANCEL REGISTRATION
+4.EXIT
+WHICH OPERATION YOU WISH TO PERFORM?
+1
+ENTER ID OF HOSPITAL
+5
+->ENTER YOUR DETAILS :
+NAME :
+Azim Sayed
+AGE :
+60
+ADHAAR NUMBER : 231011918177
+REGISTRATION SUCCESSFULL!!
+--------------------------------------------------------------------------------
+                          ***HOSPITAL AVAILABILTY***
+--------------------------------------------------------------------------------
+   ID                            HOSPITAL      AVAILABILITY             DURATION
+--------------------------------------------------------------------------------
+    1               BHIMASHANKAR HOSPITAL       Unavailable       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    2                   SDH HOSPITAL PUNE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    3         PRIMARY HEALTH CENTER ADALE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    4          KANHE PHATA RURAL HOSPITAL         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    5                        TALEGHAR SDK         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+1.REGISTERATION FOR VACCINATION
+2.VIEW SLOT DETAILS
+3.CANCEL REGISTRATION
+4.EXIT
+WHICH OPERATION YOU WISH TO PERFORM?
+1
+ENTER ID OF HOSPITAL
+5
+->ENTER YOUR DETAILS :
+NAME :
+Ayan Sheikh
+AGE :
+39
+ADHAAR NUMBER : 553140559781
+REGISTRATION SUCCESSFULL!!
+--------------------------------------------------------------------------------
+                          ***HOSPITAL AVAILABILTY***
+--------------------------------------------------------------------------------
+   ID                            HOSPITAL      AVAILABILITY             DURATION
+--------------------------------------------------------------------------------
+    1               BHIMASHANKAR HOSPITAL       Unavailable       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    2                   SDH HOSPITAL PUNE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    3         PRIMARY HEALTH CENTER ADALE         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    4          KANHE PHATA RURAL HOSPITAL         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+    5                        TALEGHAR SDK         Available       8 am  to  2 pm
+--------------------------------------------------------------------------------
+1.REGISTERATION FOR VACCINATION
+2.VIEW SLOT DETAILS
+3.CANCEL REGISTRATION
+4.EXIT
+WHICH OPERATION YOU WISH TO PERFORM?
+4
+USER EXIT COMPLETED!!
+--------------------------------------------------------------------------------
+->LOG IN AS:
+1. ADMIN
+2. USER
+OR
+3. EXIT
+1
+ENTER PASSWORD
+1234
+                             *TODAYS DATA*
+--------------------------------------------------------------------------------
+   ID                            HOSPITAL         NUMBER OF VACCINES
+--------------------------------------------------------------------------------
+    1               BHIMASHANKAR HOSPITAL                          0
+--------------------------------------------------------------------------------
+    2                   SDH HOSPITAL PUNE                         36
+--------------------------------------------------------------------------------
+    3         PRIMARY HEALTH CENTER ADALE                         23
+--------------------------------------------------------------------------------
+    4          KANHE PHATA RURAL HOSPITAL                         13
+--------------------------------------------------------------------------------
+    5                        TALEGHAR SDK                         28
+--------------------------------------------------------------------------------
+-------------------------------OPERATIONS--------------------------------------
+1.COUNT NUMBER OF PATIENTS IN A HOSPITTAL
+2.UDATE TOTAL VACCINE COUNT OF A HOSPITAL
+3.TODAY'S PATIENT DETAILS
+4.EXIT
+--------------------------------------------------------------------------------
+WHICH OPERATION YOU WISH TO PERFORM?
+3
+-------------------------------------------------------------------------------------
+SR.NO                 HOSPITAL NAME                  PATIENT NAME      PATTIENT AGE
+-------------------------------------------------------------------------------------
+    1         BHIMASHANKAR HOSPITAL                   Vijay Desai        21
+-------------------------------------------------------------------------------------
+                                                        Sara Rana        74
+-------------------------------------------------------------------------------------
+    2             SDH HOSPITAL PUNE                   Jeeya Rathi        34
+-------------------------------------------------------------------------------------
+                                                     Saniya Mehta        59
+-------------------------------------------------------------------------------------
+                                                                          0
+-------------------------------------------------------------------------------------
+                                                     Diya Lalwani        47
+-------------------------------------------------------------------------------------
+    3   PRIMARY HEALTH CENTER ADALE                     Jay Joshi        50
+-------------------------------------------------------------------------------------
+                                                   Ameya Deshmukh        98
+-------------------------------------------------------------------------------------
+    4    KANHE PHATA RURAL HOSPITAL                 Bindu Valmiki        18
+-------------------------------------------------------------------------------------
+                                                     Rahul Jangid        80
+-------------------------------------------------------------------------------------
+    5                  TALEGHAR SDK                    Azim Sayed        60
+-------------------------------------------------------------------------------------
+                                                      Ayan Sheikh        39
+--------------------------------------------------------------------------------
+                             *TODAYS DATA*
+--------------------------------------------------------------------------------
+   ID                            HOSPITAL         NUMBER OF VACCINES
+--------------------------------------------------------------------------------
+    1               BHIMASHANKAR HOSPITAL                          0
+--------------------------------------------------------------------------------
+    2                   SDH HOSPITAL PUNE                         36
+--------------------------------------------------------------------------------
+    3         PRIMARY HEALTH CENTER ADALE                         23
+--------------------------------------------------------------------------------
+    4          KANHE PHATA RURAL HOSPITAL                         13
+--------------------------------------------------------------------------------
+    5                        TALEGHAR SDK                         28
+--------------------------------------------------------------------------------
+-------------------------------OPERATIONS--------------------------------------
+1.COUNT NUMBER OF PATIENTS IN A HOSPITTAL
+2.UDATE TOTAL VACCINE COUNT OF A HOSPITAL
+3.TODAY'S PATIENT DETAILS
+4.EXIT
+--------------------------------------------------------------------------------
+WHICH OPERATION YOU WISH TO PERFORM?
+2
+ENTER ID OF HOSPITAL
+1
+ENTER TODAYS VACCINE COUNT :
+2
+1  NAME : BHIMASHANKAR HOSPITAL  TOTAL VACCINE : 2
+VACCINE COUNT UPDATED SUCCESSFULLY!!
+--------------------------------------------------------------------------------
+                             *TODAYS DATA*
+--------------------------------------------------------------------------------
+   ID                            HOSPITAL         NUMBER OF VACCINES
+--------------------------------------------------------------------------------
+    1               BHIMASHANKAR HOSPITAL                          2
+--------------------------------------------------------------------------------
+    2                   SDH HOSPITAL PUNE                         40
+--------------------------------------------------------------------------------
+    3         PRIMARY HEALTH CENTER ADALE                         25
+--------------------------------------------------------------------------------
+    4          KANHE PHATA RURAL HOSPITAL                         15
+--------------------------------------------------------------------------------
+    5                        TALEGHAR SDK                         30
+--------------------------------------------------------------------------------
+-------------------------------OPERATIONS--------------------------------------
+1.COUNT NUMBER OF PATIENTS IN A HOSPITTAL
+2.UDATE TOTAL VACCINE COUNT OF A HOSPITAL
+3.TODAY'S PATIENT DETAILS
+4.EXIT
+--------------------------------------------------------------------------------
+
+WHICH OPERATION YOU WISH TO PERFORM?
+1
+ENTER ID OF HOSPITAL
+1
+NUMBER OF PATIENTS: 2
+--------------------------------------------------------------------------------
+                             *TODAYS DATA*
+--------------------------------------------------------------------------------
+   ID                            HOSPITAL         NUMBER OF VACCINES
+--------------------------------------------------------------------------------
+    1               BHIMASHANKAR HOSPITAL                          2
+--------------------------------------------------------------------------------
+    2                   SDH HOSPITAL PUNE                         40
+--------------------------------------------------------------------------------
+    3         PRIMARY HEALTH CENTER ADALE                         25
+--------------------------------------------------------------------------------
+    4          KANHE PHATA RURAL HOSPITAL                         15
+--------------------------------------------------------------------------------
+    5                        TALEGHAR SDK                         30
+--------------------------------------------------------------------------------
+-------------------------------OPERATIONS--------------------------------------
+1.COUNT NUMBER OF PATIENTS IN A HOSPITTAL
+2.UDATE TOTAL VACCINE COUNT OF A HOSPITAL
+3.TODAY'S PATIENT DETAILS
+4.EXIT
+--------------------------------------------------------------------------------
+WHICH OPERATION YOU WISH TO PERFORM?
+1
+ENTER ID OF HOSPITAL
+2
+NUMBER OF PATIENTS: 3
+--------------------------------------------------------------------------------
+                             *TODAYS DATA*
+--------------------------------------------------------------------------------
+   ID                            HOSPITAL         NUMBER OF VACCINES
+--------------------------------------------------------------------------------
+    1               BHIMASHANKAR HOSPITAL                          2
+--------------------------------------------------------------------------------
+    2                   SDH HOSPITAL PUNE                         40
+--------------------------------------------------------------------------------
+    3         PRIMARY HEALTH CENTER ADALE                         25
+--------------------------------------------------------------------------------
+    4          KANHE PHATA RURAL HOSPITAL                         15
+--------------------------------------------------------------------------------
+    5                        TALEGHAR SDK                         30
+--------------------------------------------------------------------------------
+-------------------------------OPERATIONS--------------------------------------
+1.COUNT NUMBER OF PATIENTS IN A HOSPITTAL
+2.UDATE TOTAL VACCINE COUNT OF A HOSPITAL
+3.TODAY'S PATIENT DETAILS
+4.EXIT
+--------------------------------------------------------------------------------
+WHICH OPERATION YOU WISH TO PERFORM?
+1
+ENTER ID OF HOSPITAL
+3
+NUMBER OF PATIENTS: 2
+--------------------------------------------------------------------------------
+                             *TODAYS DATA*
+--------------------------------------------------------------------------------
+   ID                            HOSPITAL         NUMBER OF VACCINES
+--------------------------------------------------------------------------------
+    1               BHIMASHANKAR HOSPITAL                          2
+--------------------------------------------------------------------------------
+    2                   SDH HOSPITAL PUNE                         40
+--------------------------------------------------------------------------------
+    3         PRIMARY HEALTH CENTER ADALE                         25
+--------------------------------------------------------------------------------
+    4          KANHE PHATA RURAL HOSPITAL                         15
+--------------------------------------------------------------------------------
+    5                        TALEGHAR SDK                         30
+--------------------------------------------------------------------------------
+-------------------------------OPERATIONS--------------------------------------
+1.COUNT NUMBER OF PATIENTS IN A HOSPITTAL
+2.UDATE TOTAL VACCINE COUNT OF A HOSPITAL
+3.TODAY'S PATIENT DETAILS
+4.EXIT
+--------------------------------------------------------------------------------
+WHICH OPERATION YOU WISH TO PERFORM?
+1
+ENTER ID OF HOSPITAL
+4
+NUMBER OF PATIENTS: 2
+--------------------------------------------------------------------------------
+                             *TODAYS DATA*
+--------------------------------------------------------------------------------
+   ID                            HOSPITAL         NUMBER OF VACCINES
+--------------------------------------------------------------------------------
+    1               BHIMASHANKAR HOSPITAL                          2
+--------------------------------------------------------------------------------
+    2                   SDH HOSPITAL PUNE                         40
+--------------------------------------------------------------------------------
+    3         PRIMARY HEALTH CENTER ADALE                         25
+--------------------------------------------------------------------------------
+    4          KANHE PHATA RURAL HOSPITAL                         15
+--------------------------------------------------------------------------------
+    5                        TALEGHAR SDK                         30
+--------------------------------------------------------------------------------
+-------------------------------OPERATIONS--------------------------------------
+1.COUNT NUMBER OF PATIENTS IN A HOSPITTAL
+2.UDATE TOTAL VACCINE COUNT OF A HOSPITAL
+3.TODAY'S PATIENT DETAILS
+4.EXIT
+--------------------------------------------------------------------------------
+WHICH OPERATION YOU WISH TO PERFORM?
+1
+ENTER ID OF HOSPITAL
+5
+NUMBER OF PATIENTS: 2
+--------------------------------------------------------------------------------
+                             *TODAYS DATA*
+--------------------------------------------------------------------------------
+   ID                            HOSPITAL         NUMBER OF VACCINES
+--------------------------------------------------------------------------------
+    1               BHIMASHANKAR HOSPITAL                          2
+--------------------------------------------------------------------------------
+    2                   SDH HOSPITAL PUNE                         40
+--------------------------------------------------------------------------------
+    3         PRIMARY HEALTH CENTER ADALE                         25
+--------------------------------------------------------------------------------
+    4          KANHE PHATA RURAL HOSPITAL                         15
+--------------------------------------------------------------------------------
+    5                        TALEGHAR SDK                         30
+--------------------------------------------------------------------------------
+-------------------------------OPERATIONS--------------------------------------
+1.COUNT NUMBER OF PATIENTS IN A HOSPITTAL
+2.UDATE TOTAL VACCINE COUNT OF A HOSPITAL
+3.TODAY'S PATIENT DETAILS
+4.EXIT
+--------------------------------------------------------------------------------
+WHICH OPERATION YOU WISH TO PERFORM?
+4
+ADMIN EXIT COMPLETED!!
+--------------------------------------------------------------------------------
+->LOG IN AS:
+1. ADMIN
+2. USER
+OR
+3. EXIT
+3
+EXIT COMPLETED!!
+--------------------------------------------------------------------------------
+
+*/
