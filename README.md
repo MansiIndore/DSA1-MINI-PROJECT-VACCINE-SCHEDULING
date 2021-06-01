@@ -1,4 +1,4 @@
-# Mini-project-Vaccine-scheduling-and-hospital-record-management-
+#Vaccine-scheduling-and-hospital-record-management-
 
 Data Structure used: Array and linked list 
 
