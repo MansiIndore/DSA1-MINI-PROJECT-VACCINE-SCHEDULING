@@ -17,6 +17,8 @@ Project is divided into two parts:
   
   Structure of project:
    Each index of array points to a list of patients stored in linked list.
+   
+   
    Array of objects:
   ------------------------------------------------------------------------------------------------------------------------------------------------------------
   |                              |                              |                              |                              |                              |
