@@ -2,7 +2,9 @@
 
 Data Structure used: Array and linked list 
 
-
+OVERVIEW :
+     We have made very simple version of COWIN using C++ . We have stored data of hospitals in array of objects and each hospital holds details of vaccinated patients in a linked (better vision of this is given id 'description' file. 
+     
 Project is divided into two parts:
 
     1.Admin
