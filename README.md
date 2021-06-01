@@ -1,7 +1,5 @@
 # Mini-project-Vaccine-scheduling-and-hospital-record-management-
-Assumption : 30 min per person for vaccination
-             5 hospitals availabel
-             Considered duration of project =1 day
+
 Data Structure used: Array and linked list             
 Project is divided into two parts:
 1.Admin
@@ -14,11 +12,12 @@ Project is divided into two parts:
   User can register for vaccination
   View its time slot
   Cancel registration
-  
-  Structure of project:
+Structure of project:
    Each index of array points to a list of patients stored in linked list.
    Diagram representation in description folder
-   
+Assumption : 30 min per person for vaccination
+             5 hospitals availabel
+             Considered duration of project =1 day
   OTHER CREATORS:
   2348_MANSI INDORE
   2343_SANIKA GHARE
