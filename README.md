@@ -14,38 +14,49 @@ Project is divided into two parts:
 
     Admin can:
   
-    update count of availabel vaccine in a particular hospital
+    1. update count of availabel vaccine in a particular hospital
   
-    know number of patients in a hospital
+    2. know number of patients in a hospital
     
-    can see patient detail from every hospital and individual patient details as well
+    3. can see patient detail from every hospital and individual patient details as well
   
   
 #User privilages:
 
-    User can register for vaccination
+    User can 
+
+    1. register for vaccination
   
-    View its time slot
+    2. View its time slot
   
-    Cancel registration
+    3. Cancel registration
   
   
 Structure of project:
 
-     Each index of array points to a list of patients stored in linked list.
+     1. Each index of array points to a list of patients stored in linked list.
      
-     Diagram representation in description folder
+     2. Diagram representation in description folder
    
    
 Assumption : 
 
-     30 min per person for vaccination
+     1. 30 min per person for vaccination
              
-     5 hospitals availabel
+     2. 5 hospitals availabel
              
-     Considered duration of project =1 day
+     3. Considered duration of project ,1 day
              
-             
+ Further Scope: 
+ 
+        1. The program can be further extended to include more functionality of COWIN webapp
+       
+        2. Instead of giving harcoded data of availabel hospital, we can attach data base
+        
+        3. Use UI like websit instead of console
+        
+        
+ 
   OTHER CREATORS:
   
   2348_MANSI INDORE
